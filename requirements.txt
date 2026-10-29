@@ -1,0 +1,3 @@
+trimesh
+manifold3d
+numpy
