@@ -1,6 +1,6 @@
 # Wizard Lipo Battery Storage
 
-A compact, 3D-printable storage box for 12 × LP801437 pouch cells (3.7 V, 350 mAh, ~8.5 × 14.5 × 38 mm worst case).
+A compact, 3D-printable storage box for 12 × LP801437 pouch cells (3.7 V, 350 mAh, ~8.5 × 14.5 × 38 mm).
 Cells stand on end, tabs up, each in its own pocket so they never touch each other.
 Rounded block styling, a thin seam line, a cylindrical spine hinge and a hidden magnetic latch.
 
